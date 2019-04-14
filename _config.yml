@@ -1,1 +1,33 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
+
+minimal_mistakes_skin    : "air"
+
+title                    : "Hipácia"
+title_separator          : "-"
+
+name                     : "Hipácia, NIPC 515260576"
+description              : "Associação dos Investigadores Italianos em Portugal"
+url                      : "https://hipacia.pt"
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-include-cache
+
+# # Reading Files
+# include:
+#   # - .htaccess
+#   - _pages
+
+defaults:
+#   # _pages
+#   - scope:
+#       path: ""
+#       type: pages
+#     values:
+#       layout: single
+#       author_profile: true

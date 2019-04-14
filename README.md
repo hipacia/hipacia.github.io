@@ -1,3 +1,1 @@
-## hipacia.github.io
-
-HIPÁCIA - Association of Italian Researchers in Portugal
+Hipácia - Associação dos Investigadores Italianos em Portugal
