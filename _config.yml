@@ -1,7 +1,7 @@
 # theme: jekyll-theme-minimal
 remote_theme: "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin    : "air"
+minimal_mistakes_skin    : "contrast"
 
 title                    : "Hipácia"
 title_separator          : "-"
