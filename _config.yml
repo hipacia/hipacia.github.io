@@ -1,14 +1,16 @@
-# theme: jekyll-theme-minimal
+# Theme Settings
 remote_theme: "mmistakes/minimal-mistakes"
-
 minimal_mistakes_skin    : "contrast"
 
-title                    : "Hipácia"
-title_separator          : "-"
-
-name                     : "Hipácia, NIPC 515260576"
-description              : "Associação dos Investigadores Italianos em Portugal"
-url                      : "https://hipacia.pt"
+# Site Settings
+locale: "it-IT" # change to "en-US" when translated
+title: "Hipácia"
+title_separator: "-"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hipacia.pt" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "hipacia/hipacia.github.io"
+name: "Hipácia" # NIPC 515260576
+description: "Associação dos Investigadores Italianos em Portugal"
 
 # Plugins (previously gems:)
 plugins:
@@ -18,16 +20,14 @@ plugins:
 whitelist:
   - jekyll-include-cache
 
-# # Reading Files
-# include:
-#   # - .htaccess
-#   - _pages
+# Reading Files
+include: ["_pages"]
 
+# Defaults
 defaults:
-#   # _pages
-#   - scope:
-#       path: ""
-#       type: pages
-#     values:
-#       layout: single
-#       author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single

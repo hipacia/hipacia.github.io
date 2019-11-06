@@ -1,8 +1,10 @@
 ---
-layout: default
-permalink: /
+title: "Hipácia"
+permalink: /it
+excerpt: "Associazione dei ricercatori italiani in Portogallo"
 ---
-<img src="/assets/images/hipacia.png" alt="Hipácia Logo" width="640"/>
+
+<img src="../../assets/images/hipacia.png" alt="Hipácia Logo" width="640"/>
 
 Hipácia è l'associazione di ricercatori italiani in Portogallo.
 
