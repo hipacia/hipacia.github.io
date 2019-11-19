@@ -22,7 +22,7 @@ Davide Accardi, presidente
 <img src="https://0.academia-photos.com/1886010/866708/1081453/s200_andrea.zille.jpg" alt="Andrea Zille" width="80"/>
 Andrea Zille, vicepresidente
 
-<img src="http://iem.fcsh.unl.pt/imagens/images/INV_mariaalessandrabiottal.jpg" alt="Maria Alessandra Bilotta" width="80"/>
+<img src="../../assets/images/mab.jpg" alt="Maria Alessandra Bilotta" width="80"/>
 Maria Alessandra Bilotta, membro della direzione (vogal)
 
 <img src="http://img.comunidades.net/con/congressoenergias/enga_santino.jpg" alt="Mónica Di Berardino" width="80"/>
@@ -30,7 +30,7 @@ Mónica Di Berardino, segretaria della direzione
 
 Assemblea dei soci:
 
-<img src="http://users.isr.ist.utl.pt/~gsaponaro/giosmall.jpg" alt="Giovanni Saponaro" width="80"/>
+<img src="../../assets/images/gs.png" alt="Giovanni Saponaro" width="80"/>
 Giovanni Saponaro, presidente dell'assemblea
 
 Tesoriere:
