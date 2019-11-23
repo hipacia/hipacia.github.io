@@ -19,7 +19,7 @@ Direzione:
 <img src="http://neuro.fchampalimaud.org/media/cache/93/9d/939d49e62bc9552818e50ae2e2df6ec9.jpg" alt="Davide Accardi" width="80"/>
 Davide Accardi, presidente
 
-<img src="https://0.academia-photos.com/1886010/866708/1081453/s200_andrea.zille.jpg" alt="Andrea Zille" width="80"/>
+<img src="../../assets/images/az.jpg" alt="Andrea Zille" width="80"/>
 Andrea Zille, vicepresidente
 
 <img src="../../assets/images/mab.jpg" alt="Maria Alessandra Bilotta" width="80"/>
@@ -37,3 +37,7 @@ Tesoriere:
 
 <img src="http://gfm.cii.fc.ul.pt/people/dmasoero/portal_factory/Document/Vienna" alt="Davide Masoero" width="80"/>
 Davide Masoero
+
+Altri:
+<img src="../../assets/images/fdc.jpg" alt="Francesca Dal Cin" width="80"/>
+Francesca Dal Cin
