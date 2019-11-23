@@ -39,5 +39,6 @@ Tesoriere:
 Davide Masoero
 
 Altri:
+
 <img src="../../assets/images/fdc.jpg" alt="Francesca Dal Cin" width="80"/>
 Francesca Dal Cin
