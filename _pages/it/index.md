@@ -38,7 +38,7 @@ Tesoriere:
 <img src="http://gfm.cii.fc.ul.pt/people/dmasoero/portal_factory/Document/Vienna" alt="Davide Masoero" width="80"/>
 Davide Masoero
 
-Altri:
+Grafica:
 
 <img src="../../assets/images/fdc.jpg" alt="Francesca Dal Cin" width="80"/>
 Francesca Dal Cin
